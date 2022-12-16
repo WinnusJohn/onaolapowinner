@@ -29,4 +29,4 @@ My name is [Winner Onaolapo](https://www.linkedin.com/in/winneronaolapo/)
 
 ### :writing_hand: Blog Posts :
 
-[how to ssh into any aws ec2 intance using powershell or git bash](https://winneronaolapo.hashnode.dev/how-to-ssh-into-any-aws-ec2-instance-using-windowspowershell-or-git-bash)
+   * [how to ssh into any aws ec2 intance using powershell or git bash](https://winneronaolapo.hashnode.dev/how-to-ssh-into-any-aws-ec2-instance-using-windowspowershell-or-git-bash)
