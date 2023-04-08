@@ -17,12 +17,12 @@ My name is [Winner Onaolapo](https://www.linkedin.com/in/winneronaolapo/)
 
 ----
 
-- Documenting my Progress on AWS Cloud DevOps and Projects that I did while learning different  `AWS Services`,  `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Python`, `Linux`, `JSON`, `YAML`
+- Documenting my Progress on AWS Cloud DevOps and Projects that I did while learning different  `AWS Services`,  `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Python`, `Linux`, `JSON`, `YAML`, `Vagrant`
 
 
 | Repository Name | Description  |
   | ------ | ------ |
-| [My_DevOps_Journey](https://github.com/WinnusJohn/My_DevOps_Journey.git) | DevOps projects using AWS |
+| [My_DevOps_Journey](https://github.com/WinnusJohn/My_DevOps_Journey.git) | DevOps projects |
 
 
 ---
