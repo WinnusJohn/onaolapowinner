@@ -24,7 +24,7 @@ My name is [Winner Onaolapo](https://www.linkedin.com/in/winneronaolapo/)
   | ------ | ------ |
 | [My_DevOps_Journey](https://github.com/WinnusJohn/My_DevOps_Journey.git) | DevOps projects |
 | [GoProjects](https://github.com/winnusjohn/GoProjects.git) | Go projects |
-| [Technical Documentations](git@github.com:winnusjohn/GoProjects.git) | Technical Documentations |
+| [Technical Documentations](https://github.com/winnusjohn/Techical_Documentations.git) | Technical Documentations |
 
 
 ---
