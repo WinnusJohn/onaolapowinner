@@ -23,7 +23,7 @@ My name is [Winner Onaolapo](https://www.linkedin.com/in/winneronaolapo/)
 | Repository Name | Description  |
   | ------ | ------ |
 | [My_DevOps_Journey](https://github.com/WinnusJohn/My_DevOps_Journey.git) | DevOps projects |
-| [Go Projects](git@github.com:winnusjohn/GoProjects.git) | Go projects |
+| [GoProjects](git@github.com:winnusjohn/GoProjects.git) | Go projects |
 | [Technical Documentations](git@github.com:winnusjohn/GoProjects.git) | Technical Documentations |
 
 
